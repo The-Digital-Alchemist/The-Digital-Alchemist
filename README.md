@@ -43,7 +43,7 @@ fewer moving parts, deeper intelligence, more autonomy.
 ---
 
 ### 🌍 Connect
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=firefox)](https://muradalbalushi.com)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=firefox)](https://muradalbalushi.com/?ref=github-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-@muuradss-blue?style=flat-square&logo=twitter)](https://twitter.com/muuradss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murad%20Al%20Balushi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/muradalbalushi)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail)](mailto:murad@muradalbalushi.com)
