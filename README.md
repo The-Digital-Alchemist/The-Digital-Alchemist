@@ -4,7 +4,7 @@
 
 Most AI demos work in the happy path. My work lives in the gap between *"the model usually works"* and *"I'd put this in front of a paying customer"* — execution-based evaluation, guardrails, cost enforcement, and observability for AI systems in production. Deterministic checks wrapped around non-deterministic models, systems that fail safely under uncertainty, and spend that stays predictable.
 
-I also spent ~a year shipping a **regulated fintech platform** end to end — security/VAPT, large-scale data pipelines, and eKYC/AML integrations — so I build for the constraints real systems actually run under, not the demo.
+I also spent ~a year shipping a **regulated fintech platform** end to end — security/VAPT with **zero incidents at launch**, eKYC/AML integrations, and a **500k-record sync pipeline** that cut manual processing from days to under five minutes — so I build for the constraints real systems actually run under, not the demo.
 
 🌐 **[muradalbalushi.com](https://muradalbalushi.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/muradalbalushi/)** &nbsp;·&nbsp; 📧 **MuradlBalushi@gmail.com** &nbsp;·&nbsp; 📍 Oman
 
@@ -45,15 +45,6 @@ A decision-support engine that computes deterministic portfolio metrics — retu
 
 `Python` · `Portfolio Analytics` · `Constrained LLM Interpretation`
 &nbsp;&nbsp;📖 **[Read the case study →](https://muradalbalushi.com/case-studies/finai)**
-
----
-
-## 💼 Experience
-
-**Software Developer — 360Remit** *(regulated fintech)* · Jan 2025 – Mar 2026
-- Owned end-to-end **VAPT** as the risk authority between security vendors and engineering — cut false positives 40%+, closed 100% of critical issues pre-launch, **zero security incidents at go-live**.
-- Engineered a vendor sync pipeline for **500k+ records** (delta detection, conflict resolution, bidirectional sync) that cut manual processing from **3–5 days to under 5 minutes**.
-- Delivered MTO, eKYC, and AML integrations and designed phased infra (DR, capacity, data residency) to launch within regulatory deadlines.
 
 ---
 
